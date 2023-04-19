@@ -1,2 +1,2 @@
-# prueba de TCP/MODELO OSI
+# Prueba de TCP/MODELO OSI
 ## Modelo OSI
